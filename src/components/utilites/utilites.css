@@ -1,0 +1,17 @@
+
+.bg-one{
+    background-color: aqua;
+}
+
+.bg-two{
+    background-color :cornsilk;
+}
+
+.card-style{
+    padding: 15px;
+    border: 2px solid green;
+}
+
+.flag-container img{
+    width: 100px;
+}
